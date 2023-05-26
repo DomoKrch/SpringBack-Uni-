@@ -1,0 +1,10 @@
+{
+  "simulation": "com.example.outboxpattern.CustomRequestsSimulation",
+  "simulationId": "customrequestssimulation",
+  "start": 1683346105692,
+  "description": "",
+  "scenarios": ["Load Test Creating User"],
+  "assertions": [
+
+  ]
+}

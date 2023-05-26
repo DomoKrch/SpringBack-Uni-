@@ -1,0 +1,10 @@
+{
+  "simulation": "com.example.outboxpattern.CustomRequestsSimulation",
+  "simulationId": "customrequestssimulation",
+  "start": 1683347198181,
+  "description": "",
+  "scenarios": ["Load Test Update User"],
+  "assertions": [
+
+  ]
+}
