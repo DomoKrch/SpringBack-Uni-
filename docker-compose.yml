@@ -27,7 +27,7 @@ services:
       - spring.datasource.url=jdbc:postgresql://postgres:5432/order_table_db
       - spring.datasource.username=postgres
       - spring.datasource.password=123
-      - spring.kafka.bootstrap-servers=172.16.83.138:9092
+      - spring.kafka.bootstrap-servers=blabla:9092
     depends_on:
       postgres:
         condition: service_healthy
